@@ -31,8 +31,8 @@
 
 - 📡 **Radar System (IoT Project)**  
   → _Visualizes distance using Arduino Uno, servo, and ultrasonic sensor_
-  ![Radar Project](arrduino project pic 2.jpg)
-  ![Radar Project](arduino project pic1.jpg)
+  ![Radar Project](arduino_Project_Pic_2.jpg)
+  ![Radar Project](arduino_Project_Pic1.jpg)
 
 - 🤖 **AI Chatbot (Botpress)**  
   → _Built a custom chatbot using Botpress_  
