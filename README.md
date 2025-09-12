@@ -9,9 +9,10 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a 2nd year B.Tech Mechatronics student from Pondicherry
-- 📱 Currently learning Android Development (Kotlin + Java + Jetpack Compose)
+- 🎓 I'm a 3rd year B.Tech Mechatronics student from Pondicherry
+- 📱  Android Developer (Kotlin + Java + Jetpack Compose)
 - 💡 Building **ShivamHelper**, my own Android library
+- 💡 Created a Full Screen Timer(Asthetic Mode)
 - ⚙️ Working on a **To-Do App + Habit Tracker + Time Logger**
 - 🤖 Built a chatbot using **Botpress**: [Try it here](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
 - 🧠 Exploring AI + Arduino + App Integration Projects (like radar system with Uno R3)
