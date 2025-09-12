@@ -40,8 +40,8 @@
 
 -⏳ Full Screen Timer (Productivity App)
   → Helps you stay focused with a clean, immersive full-screen countdown 
-  ![FULL SCREEN TIMER APP](Screenshot_20250912_232810.png)
-  ![FULL SCREEN TIMER APP](Screenshot_20250912_235748.png)
+  ![FULL SCREEN TIMER APP](FULL_TIMER_SCREEN_APP_PIC2.png)
+  ![FULL SCREEN TIMER APP](FULL_TIMER-SCREEN_APP_PIC1.png)
 ---
 
 ### 🌐 Connect with Me
