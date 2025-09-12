@@ -10,10 +10,10 @@
 ### 🚀 About Me
 
 - 🎓 I'm a 3rd year B.Tech Mechatronics student from Pondicherry
-- 💡 Created a Full Screen Timer(Asthetic Mode)
+- 💡 Created a Full Screen Timer App 
 - ⚙️ Working on GymSaathi App(It helps user to analyse their workout through graph and charts)
 - 🤖 Built a chatbot using **Botpress**: [Try it here](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
-- ✨ Dream: Build something impactful, travel India, then the world
+- ✨ Dream: Build a SaaS Startup
 ---
 
 ### 🛠️ Tech Stack
