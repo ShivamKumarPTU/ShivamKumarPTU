@@ -10,15 +10,10 @@
 ### 🚀 About Me
 
 - 🎓 I'm a 3rd year B.Tech Mechatronics student from Pondicherry
-- 📱  Android Developer (Kotlin + Java + Jetpack Compose)
 - 💡 Created a Full Screen Timer(Asthetic Mode)
 - ⚙️ Working on GymSaathi App(It helps user to analyse their workout through graph and charts)
 - 🤖 Built a chatbot using **Botpress**: [Try it here](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
-- 🧠 Exploring AI + Arduino + App Integration Projects (like radar system with Uno R3)
-- 🎯 Preparing for **GSoC**, internships, and freelancing opportunities
 - ✨ Dream: Build something impactful, travel India, then the world
-- 📅 Joined GitHub: **September 2023**
-
 ---
 
 ### 🛠️ Tech Stack
@@ -42,7 +37,7 @@
   → _Built a custom chatbot using Botpress_  
   🔗 [Chat with the bot](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
 
- -⏳ Full Screen Timer (Productivity App)
+-⏳ Full Screen Timer (Productivity App)
   → Helps you stay focused with a clean, immersive full-screen countdown 
 
 ---
@@ -50,7 +45,6 @@
 ### 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shivam-kumar-1b1611210/)
-- 📷 [Instagram](https://instagram.com/your-handle) <!-- replace with your actual handle if you'd like -->
 - 🧠 [Personal Blog (Coming Soon)]()
 
 ---
