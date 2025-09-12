@@ -11,9 +11,8 @@
 
 - 🎓 I'm a 3rd year B.Tech Mechatronics student from Pondicherry
 - 📱  Android Developer (Kotlin + Java + Jetpack Compose)
-- 💡 Building **ShivamHelper**, my own Android library
 - 💡 Created a Full Screen Timer(Asthetic Mode)
-- ⚙️ Working on a **To-Do App + Habit Tracker + Time Logger**
+- ⚙️ Working on GymSaathi App(It helps user to analyse their workout through graph and charts)
 - 🤖 Built a chatbot using **Botpress**: [Try it here](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
 - 🧠 Exploring AI + Arduino + App Integration Projects (like radar system with Uno R3)
 - 🎯 Preparing for **GSoC**, internships, and freelancing opportunities
@@ -28,35 +27,23 @@
 - 🔧 Tools: `Android Studio`, `Git`, `GitHub`, `Figma`
 - 🤖 AI Bots: `Botpress`
 - ⚙️ Hardware: `Arduino Uno`, `Servo`, `Ultrasonic Sensor`
-- 🌐 Web: `HTML`, `CSS`, `JavaScript` (basic)
+- 🌐 Programming Language:'C', 'C++', 'Java', 'Kotlin','Python','Matlab'
 - 📚 Practicing: `Data Structures`, `Algorithms`, `OOPs`, `Design Patterns`
 
 ---
 
 ### 🧩 Featured Projects
 
-- 🧰 **ShivamHelper** – My personal Android utility library  
-  → _Making Android dev easier for everyone_  
-  🔗 [Coming soon on GitHub]
-
-- ✅ **Smart To-Do App**  
-  → _Combines tasks, habits, and time logging into one productivity app_
-
 - 📡 **Radar System (IoT Project)**  
   → _Visualizes distance using Arduino Uno, servo, and ultrasonic sensor_
+  ![Radar Project](images/radar_project.jpg)
 
 - 🤖 **AI Chatbot (Botpress)**  
   → _Built a custom chatbot using Botpress_  
   🔗 [Chat with the bot](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamKumarPTU&show_icons=true&theme=tokyonight&count_private=true" alt="Shivam's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKumarPTU&theme=tokyonight" alt="Shivam's GitHub Streak" />
-</p>
+ -⏳ Full Screen Timer (Productivity App)
+  → Helps you stay focused with a clean, immersive full-screen countdown 
 
 ---
 
