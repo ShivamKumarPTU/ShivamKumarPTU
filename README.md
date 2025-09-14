@@ -34,9 +34,6 @@
   ![Radar Project](arduino_Project_Pic_2.jpg)
   ![Radar Project](arduino_Project_Pic1.jpg)
 
-- 🤖 **AI Chatbot (Botpress)**  
-  → _Built a custom chatbot using Botpress_  
-  🔗 [Chat with the bot](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
 
 -⏳ Full Screen Timer (Productivity App)
   → Helps you stay focused with a clean, immersive full-screen countdown 
