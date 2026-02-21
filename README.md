@@ -4,16 +4,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=App+Developer+%7C+Freelancer;DSA+Enthusiast+%7C+Open-Source+Contributor;Dreaming+Big+%7C+Building+Daily" alt="Typing SVG" />
 </p>
+<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
+<h3 align="center">Freelance Android Developer | B.Tech Mechatronics | Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Fast+delivery+•+Clean+UI+•+Affordable;Android+Dev+•+Kotlin+•+Firebase+•+Jetpack;Building+apps+that+grow+your+business" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🚀 About Me
-- 🔗 My Portfolio Link: [Business-Site](https://github.com/ShivamKumarPTU/Business-Site)
-- 🎓 I'm a 3rd year B.Tech Mechatronics student from Pondicherry
-- 💡 Created a **Full Screen Timer App** 
-- ⚙️ Working on **GymSaathi App** (helps users analyse their workout through graphs and charts)
-- 🤖 Built a chatbot using **Botpress**: [Try it here](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=a0b423ee-27e1-4257-84f5-eee99d2e6ee3)
+**Fast delivery • Clean UI • Affordable**
+
+I build fast, reliable Android apps that grow your business.  
+I'm Shivam — freelance Android developer. I help businesses and entrepreneurs launch production-ready Android apps quickly using **Kotlin**, **Jetpack**, and **Firebase**.
+
+- 💼 **Portfolio:** [Business-Site](https://github.com/ShivamKumarPTU/Business-Site) — _my freelance showcase_
+- 📬 **Request a Quote:** _available on Upwork, Fiverr, Freelancer, LinkedIn_
+- 🎓 B.Tech Mechatronics student from Pondicherry
 - ✨ Dream: Build a SaaS Startup
+- 💡 **Typical project:** MVP app with authentication, basic CRUD, and push notifications — ready to ship in 2–6 weeks depending on scope.
 
 ---
 
@@ -32,67 +42,38 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📍 GeoFence Tracker App</h3>
-      <p>Android app that tracks user location and sends notifications upon entering/exiting predefined geofences using Google Maps API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52B2?style=flat&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat&logo=googlemaps&logoColor=white" />
-        <img src="https://img.shields.io/badge/Geofencing-34A853?style=flat&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room-483D8B?style=flat&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Foreground_Service-FF6F00?style=flat&logo=android&logoColor=white" />
-      </p>
-      <a href="https://github.com/ShivamKumarPTU/geofence-tracker">🔗 View Details →</a>
-    </td>
-    <td width="50%">
-      <h3>⏳ Full Screen Timer App</h3>
-      <p>Full-screen timer app with multiple modes, custom intervals, and a distraction-free interface.</p>
+      <h3>⏳ Full Screen Timer</h3>
+      <p>Full-screen timer app with multiple modes, custom intervals, and a distraction-free interface — built for productivity.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52B2?style=flat&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Room-483D8B?style=flat&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/WorkManager-8BC34A?style=flat&logo=android&logoColor=white" />
         <img src="https://img.shields.io/badge/Material_Design-757575?style=flat&logo=materialdesign&logoColor=white" />
       </p>
-      <a href="https://github.com/ShivamKumarPTU/full-screen-timer">🔗 View Details →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📡 Radar System Project</h3>
-      <p>Arduino-based radar system using ultrasonic sensors to detect objects and visualize distance in real time across a 180° scanning range.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ultrasonic_Sensor-0078D7?style=flat&logo=sensor&logoColor=white" />
-        <img src="https://img.shields.io/badge/Embedded%20C-555555?style=flat&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&logoColor=white" />
-      </p>
-      <p float="left">
-        <img src="arduino_Project_Pic_2.jpg" width="45%" />
-        <img src="arduino_Project_Pic1.jpg" width="45%" />
-      </p>
-      <a href="https://github.com/ShivamKumarPTU/radar-system">🔗 View Details →</a>
+      <a href="https://github.com/ShivamKumarPTU/Full_Screen_Timer">🔗 View Details →</a>
     </td>
     <td width="50%">
-      <h3>💪 GymSaathi App</h3>
-      <p>Fitness app with Firebase authentication & biometric login, workout tracking, and progress analytics.</p>
+      <h3>💼 Business Site</h3>
+      <p>My freelance portfolio site — showcases services, past work, and technologies I use to build production‑ready Android apps.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52B2?style=flat&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Room-483D8B?style=flat&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       </p>
-      <a href="https://github.com/ShivamKumarPTU/gymsaathi">🔗 View Details →</a>
+      <a href="https://github.com/ShivamKumarPTU/Business-Site">🔗 View Details →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" colspan="2">
-      <h3>⚡ Additional Project: Botpress Chatbot</h3>
-      <p>Interactive chatbot built with Botpress, embedded in a web app for automated conversations.</p>
+      <h3>📚 NightLibrary</h3>
+      <p>An Android library (or utility module) designed to simplify night mode / dark theme implementation across apps — reusable, lightweight, and easy to integrate.</p>
       <p>
-        <img src="https://img.shields.io/badge/Botpress-6A1B9A?style=flat&logo=botpress&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Web_Integration-4285F4?style=flat&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52B2?style=flat&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android_Library-3DDC84?style=flat&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dark_Theme-121212?style=flat&logo=android&logoColor=white" />
       </p>
-      <a href="https://github.com/ShivamKumarPTU/botpress-chatbot">🔗 View Details →</a>
+      <a href="https://github.com/ShivamKumarPTU/NightLibrary">🔗 View Details →</a>
     </td>
   </tr>
 </table>
@@ -119,4 +100,4 @@
 
 ---
 
-<p align="center">✨ “Consistency beats talent when talent doesn’t show up.” ✨</p>
+<p align="center">✨ “Fast delivery • Clean UI • Affordable — apps that grow your business.” ✨</p>
