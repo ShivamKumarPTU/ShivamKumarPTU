@@ -6,10 +6,11 @@
 
 ### 🚀 About Me
 
-I help businesses and entrepreneurs launch production-ready Android apps quickly.
-I build fast, reliable Android apps that grow your business. 
-- 📬 **Request a Quote:** _available on Upwork, Fiverr, Freelancer, LinkedIn_
-- 💼 **Portfolio:** (https://github.com/ShivamKumarPTU/Business-Site)
+I help businesses and entrepreneurs launch production-ready Android apps quickly.  
+I build fast, reliable Android apps that grow your business.
+
+- 📬 **Request a Quote:** [hire.shivamkumar@gmail.com](mailto:hire.shivamkumar@gmail.com)
+- 💼 **Portfolio:** [Business-Site](https://github.com/ShivamKumarPTU/Business-Site)
 
 ---
 
@@ -73,7 +74,7 @@ I build fast, reliable Android apps that grow your business.
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       </p>
-      <a href="https://shivamkumarptu.github.io/Business-Site/">🔗 View Details →</a>
+      <a href="https://shivamkumarptu.github.io/Business-Site/">🔗 View Live Site →</a>
     </td>
   </tr>
   <tr>
@@ -104,5 +105,9 @@ I build fast, reliable Android apps that grow your business.
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-kumar-1b1611210/" target="blank">
+<a href="https://www.linkedin.com/in/shivam-kumar-1b1611210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+
+
+---
+
 <p align="center">✨ “Fast delivery • Clean UI • Affordable — apps that grow your business.” ✨</p>
