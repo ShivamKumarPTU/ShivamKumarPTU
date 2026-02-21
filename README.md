@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=App+Developer+%7C+Freelancer;DSA+Enthusiast+%7C+Open-Source+Contributor;Dreaming+Big+%7C+Building+Daily" alt="Typing SVG" />
 </p>
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">Freelance Android Developer | B.Tech Mechatronics | Tech Explorer</h3>
 
 ### 🚀 About Me
 
