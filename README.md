@@ -74,7 +74,7 @@ I build fast, reliable Android apps that grow your business.
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
       </p>
-      <a href="https://github.com/ShivamKumarPTU/Business-Site">🔗 View Details →</a>
+      <a href="https://shivamkumarptu.github.io/Business-Site/">🔗 View Details →</a>
     </td>
   </tr>
   <tr>
