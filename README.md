@@ -10,7 +10,7 @@ I help businesses and entrepreneurs launch production-ready Android apps quickly
 I build fast, reliable Android apps that grow your business.
 
 - 📬 **Request a Quote:** [hire.shivamkumar@gmail.com](mailto:hire.shivamkumar@gmail.com)
-- 💼 **Portfolio:** [Business-Site](https://github.com/ShivamKumarPTU/Business-Site)
+- 💼 **Portfolio:** (https://github.com/ShivamKumarPTU/Business-Site)
 
 ---
 
