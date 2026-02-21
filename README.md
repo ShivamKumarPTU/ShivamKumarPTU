@@ -7,12 +7,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Freelance Android Developer | B.Tech Mechatronics | Tech Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Fast+delivery+•+Clean+UI+•+Affordable;Android+Dev+•+Kotlin+•+Firebase+•+Jetpack;Building+apps+that+grow+your+business" alt="Typing SVG" />
-</p>
-
----
-
 ### 🚀 About Me
 **Fast delivery • Clean UI • Affordable**
 
