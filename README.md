@@ -60,11 +60,27 @@ I bridge the gap between complex business logic and intuitive mobile experiences
       <a href="https://github.com/ShivamKumarPTU/GymSaathi"><b>Technical Breakdown →</b></a>
     </td>
     <td width="50%" valign="top">
+      <h3>⏳ Full Screen Timer</h3>
+      <p><b>Problem:</b> Phone distractions during deep-work sessions.<br><b>Solution:</b> A minimalist, high-contrast timer using <i>WorkManager</i> to ensure persistence even if the app is cleared from RAM.</p>
+      <img src="https://img.shields.io/badge/Kotlin-MVVM-7F52B2?style=flat-square&logo=kotlin" />
+      <img src="https://img.shields.io/badge/Logic-WorkManager-8BC34A?style=flat-square&logo=android" /><br>
+      <a href="https://github.com/ShivamKumarPTU/Full_Screen_Timer"><b>Technical Breakdown →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📚 NightLibrary</h3>
       <p><b>The Hook:</b> A lightweight utility module for developers to implement dynamic theme switching in < 5 lines of code.</p>
       <img src="https://img.shields.io/badge/Dev-Library-3DDC84?style=flat-square&logo=android" />
       <img src="https://img.shields.io/badge/Focus-Open_Source-black?style=flat-square&logo=github" /><br>
       <a href="https://github.com/ShivamKumarPTU/NightLibrary"><b>Technical Breakdown →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Business Site</h3>
+      <p><b>The Hook:</b> My digital storefront. Showcases service offerings with a focus on conversion and clean professional aesthetics.</p>
+      <img src="https://img.shields.io/badge/Web-Portfolio-E34F26?style=flat-square&logo=html5" />
+      <img src="https://img.shields.io/badge/Style-CSS3-1572B6?style=flat-square&logo=css3" /><br>
+      <a href="https://shivamkumarptu.github.io/Business-Site/"><b>View Live Site →</b></a>
     </td>
   </tr>
 </table>
