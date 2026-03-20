@@ -66,6 +66,20 @@ I build fast, reliable Android apps that grow your business.
       <a href="https://github.com/ShivamKumarPTU/GymSaathi">🔗 View Details →</a>
     </td>
     <td width="50%">
+  <h3>🎙️ VoxAnalyzer</h3>
+  <p><i>AI-powered speech analysis tool that uses Whisper and Transformers to detect emotional patterns, featuring cloud-based inference and dynamic data visualization.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/Kotlin-7F52B2?style=flat&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Room-483D8B?style=flat&logo=sqlite&logoColor=white" />
+  </p>
+  <a href="https://github.com/ShivamKumarPTU/VoxAnalyzer">🔗 View Details →</a>
+</td>
+    <td width="50%">
       <h3>💼 Business Site</h3>
       <p><i>My freelance portfolio site — showcases services, past work, and technologies I use to build production‑ready Android apps.</i></p>
       <p>
